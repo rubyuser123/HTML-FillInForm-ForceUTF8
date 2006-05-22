@@ -1,0 +1,8 @@
+Changes
+lib/HTML/FillInForm/ForceUTF8.pm
+Makefile.PL
+MANIFEST
+README
+t/00-load.t
+t/01_unicode.t
+META.yml                                 Module meta-data (added by MakeMaker)

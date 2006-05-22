@@ -1,0 +1,6 @@
+Revision history for Perl extension HTML::FillInForm::ForceUTF8.
+
+0.01  Fri Mar 10 13:41:27 2006
+	- original version; created by h2xs 1.23 with options
+		-XAn HTML::FillInForm::ForceUTF8
+
